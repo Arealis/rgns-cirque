@@ -1,2 +1,6 @@
 # rgns-cirque
-Cirque 2018
+This is the repository for Cirque 2018
+
+The current song list is:
+Gymnopedie
+The Entertainer
