@@ -11,7 +11,9 @@ This is the repository for Cirque 2018
   **Upload:** all music scores inside of the scores folder
   
 
-```Note:
+```
+Note:
 Please be sure to export and upload all scores using the 'musicXML' file format.
 It is the universal standard for electronic music scores, and will allow us to 
-share the same score even while using different apps.```
+share the same score even while using different apps.
+```
